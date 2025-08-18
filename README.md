@@ -1,2 +1,2 @@
-# Projetos-do-Gustavo-Guanabara
+esse projeto é apenas um inicio, pra começar na programação
 https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&amp;si=PJgMvN6Wiyz5poL6
