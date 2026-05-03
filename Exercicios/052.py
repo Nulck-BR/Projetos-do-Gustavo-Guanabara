@@ -6,3 +6,5 @@ for c in range(1, num + 1):
         print(f"\033[31m{c}\033[m", end=" ")
     print(c, end="")
     
+
+#AINDA NAO TERMINEI ESSE 
